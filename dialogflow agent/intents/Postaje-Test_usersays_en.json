@@ -1,0 +1,47 @@
+[
+  {
+    "id": "74b707c6-5e78-4f1e-b320-39ebb157579f",
+    "data": [
+      {
+        "text": "Center Zalog",
+        "meta": "@sys.any",
+        "alias": "addres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64129605-98f8-453c-8a40-0eae7df10f2a",
+    "data": [
+      {
+        "text": "Čebelarska",
+        "meta": "@sys.any",
+        "alias": "addres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39011f0e-ee9c-46fd-9a73-ec83638f7b1a",
+    "data": [
+      {
+        "text": "BTC-uprava",
+        "meta": "@sys.any",
+        "alias": "addres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

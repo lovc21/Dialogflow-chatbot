@@ -1,0 +1,63 @@
+{
+  "id": "b9178ded-b528-441b-ac9a-e70b9653b4e6",
+  "name": "Context_trafic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "get.naslov",
+      "affectedContexts": [
+        {
+          "name": "Context_trafic",
+          "lifespan": 5
+        },
+        {
+          "name": "Hello",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e99f1b0c-07d2-4157-a38a-953fcb58de46",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "test"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

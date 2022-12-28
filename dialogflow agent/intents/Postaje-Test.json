@@ -1,0 +1,50 @@
+{
+  "id": "3807d35d-a927-4dbe-b8ab-b465c57aefb1",
+  "name": "Postaje-Test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.addres",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb697ad3-4237-4cda-a791-80a01fac4f4e",
+          "name": "addres",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$addres",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Server not working"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
