@@ -1,0 +1,369 @@
+{
+   "geocoded_waypoints":[
+      {
+         "geocoder_status":"OK",
+         "partial_match":true,
+         "place_id":"ChIJ0SRK0TQtZUcRaSXa4O5AEic",
+         "types":[
+            "establishment",
+            "parking",
+            "point_of_interest"
+         ]
+      },
+      {
+         "geocoder_status":"OK",
+         "place_id":"ChIJZTm6mRQyZUcRXWgSPLJZJS4",
+         "types":[
+            "route"
+         ]
+      }
+   ],
+   "routes":[
+      {
+         "bounds":{
+            "northeast":{
+               "lat":46.0691408,
+               "lng":14.5584405
+            },
+            "southwest":{
+               "lat":46.0298646,
+               "lng":14.4616439
+            }
+         },
+         "copyrights":"Map data ©2022",
+         "fare":{
+            "currency":"EUR",
+            "text":"€1.30",
+            "value":1.3
+         },
+         "legs":[
+            {
+               "arrival_time":{
+                  "text":"10:46\u202fPM",
+                  "time_zone":"Europe/Ljubljana",
+                  "value":1671918381
+               },
+               "departure_time":{
+                  "text":"10:06\u202fPM",
+                  "time_zone":"Europe/Ljubljana",
+                  "value":1671915974
+               },
+               "distance":{
+                  "text":"13.0 km",
+                  "value":13004
+               },
+               "duration":{
+                  "text":"40 mins",
+                  "value":2407
+               },
+               "end_address":"Letališka cesta, 1000 Ljubljana, Slovenia",
+               "end_location":{
+                  "lat":46.0620749,
+                  "lng":14.5574958
+               },
+               "start_address":"Dolgi most, 1000 Ljubljana, Slovenia",
+               "start_location":{
+                  "lat":46.0366262,
+                  "lng":14.4633859
+               },
+               "steps":[
+                  {
+                     "distance":{
+                        "text":"59 m",
+                        "value":59
+                     },
+                     "duration":{
+                        "text":"1 min",
+                        "value":45
+                     },
+                     "end_location":{
+                        "lat":46.0365628,
+                        "lng":14.4628065
+                     },
+                     "html_instructions":"Walk to D. MOST P+R",
+                     "polyline":{
+                        "points":"}o~wGe{gwACBURPj@Pf@BF"
+                     },
+                     "start_location":{
+                        "lat":46.0366262,
+                        "lng":14.4633859
+                     },
+                     "steps":[
+                        {
+                           "distance":{
+                              "text":"17 m",
+                              "value":17
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":12
+                           },
+                           "end_location":{
+                              "lat":46.0367559,
+                              "lng":14.4632667
+                           },
+                           "html_instructions":"Head <b>northwest</b> toward <b>Dolgi most</b>",
+                           "polyline":{
+                              "points":"}o~wGe{gwACBUR"
+                           },
+                           "start_location":{
+                              "lat":46.0366262,
+                              "lng":14.4633859
+                           },
+                           "travel_mode":"WALKING"
+                        },
+                        {
+                           "distance":{
+                              "text":"42 m",
+                              "value":42
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":33
+                           },
+                           "end_location":{
+                              "lat":46.0365628,
+                              "lng":14.4628065
+                           },
+                           "html_instructions":"Turn <b>left</b> onto <b>Dolgi most</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                           "maneuver":"turn-left",
+                           "polyline":{
+                              "points":"wp~wGmzgwAPj@Pf@BF"
+                           },
+                           "start_location":{
+                              "lat":46.0367559,
+                              "lng":14.4632667
+                           },
+                           "travel_mode":"WALKING"
+                        }
+                     ],
+                     "travel_mode":"WALKING"
+                  },
+                  {
+                     "distance":{
+                        "text":"5.9 km",
+                        "value":5943
+                     },
+                     "duration":{
+                        "text":"15 mins",
+                        "value":900
+                     },
+                     "end_location":{
+                        "lat":46.0519318,
+                        "lng":14.5033438
+                     },
+                     "html_instructions":"Bus towards DOLGI MOST P+R - Bavarski dvor - BROD",
+                     "polyline":{
+                        "points":"wo~wGiwgwAFGJ\\Lb@@BPt@DRFNJRHLJJPHHDB?FBF@HB@?J@J?PAjAURIXMTGTELA|@QhAIRA\\QlCGp@EPAr@CdAIRAGi@OuAMyAEYGq@CS?GAEAM?MAMAO?OAQ?S?C?OAY?WAO?OAM?MAI?GAG?CACAE?CAEACEKCKEKCKEIGQKWCEWq@EOAIAIEWAMAKC]AG@G?QBWBe@Da@Bg@JcATyBFs@RmBd@uDBM@G@I@GBE@GDGHMLMJKLIHGDEFEHEFCFCFEFALGf@QZMp@UjAc@bAa@j@W?@@??@?@@??@@@@@@??@@?@?@?@?@?@A@??A@??A@A?A@??A?A?A@??A?A?A?A?A?A?AAA?A?AA??A?AA??AAAA??AA?A??AA?A??@A?A?A??@A??@A?AII[GSEOGOIUGOEMIOMUOYCCSYS]u@aAm@u@GKMOi@q@{@sAy@iAOk@?A?A?A?A?AAA?A?A?AAA?AAA?AAAAAAAA??AA?AAA?A?A?A?A?A@A?a@Mc@e@]i@MUGKWa@]s@?ACAEKKUKUOa@KYGWGUUw@Mk@Mk@GYAEI_@Ii@SoA]sBcBaLgAaHa@eCWeBYkBuAmIeAmHIe@e@yCO_Aa@gCS_BUiAgIlB_@HiAVyCp@iBN_AB}@DWDWDWFUFSFGBE@GBE@GDE@GBGD_Ad@gA|@{BpAgAl@[PSJg@XkAr@sAt@Mu@Y_B?AY{AEQQy@a@gBa@eBMm@Me@}AgGgAqE?A[iAe@uBUcAc@kBOu@AG?GCi@@Y?Y?UXsALi@Hc@\\sC@Kv@mGD_@T{BJgAZaEH[sAWoBc@[Ec@GC?GAQ?SCI?GAGAG?IAEAGCECeAk@mAo@YOQK_@UWMCCEAcAi@KEIEA?IEOG_@IQGWIk@KYEGACAEAQG}@YcBg@c@M@I"
+                     },
+                     "start_location":{
+                        "lat":46.0366045,
+                        "lng":14.4627714
+                     },
+                     "transit_details":{
+                        "arrival_stop":{
+                           "location":{
+                              "lat":46.0519318,
+                              "lng":14.5033438
+                           },
+                           "name":"Pošta"
+                        },
+                        "arrival_time":{
+                           "text":"10:22\u202fPM",
+                           "time_zone":"Europe/Ljubljana",
+                           "value":1671916920
+                        },
+                        "departure_stop":{
+                           "location":{
+                              "lat":46.0366045,
+                              "lng":14.4627714
+                           },
+                           "name":"D. MOST P+R"
+                        },
+                        "departure_time":{
+                           "text":"10:07\u202fPM",
+                           "time_zone":"Europe/Ljubljana",
+                           "value":1671916020
+                        },
+                        "headsign":"DOLGI MOST P+R - Bavarski dvor - BROD",
+                        "line":{
+                           "agencies":[
+                              {
+                                 "name":"Ljubljana Passenger Transport",
+                                 "phone":"011 386 1 582 25 82",
+                                 "url":"http://www.lpp.si/"
+                              }
+                           ],
+                           "short_name":"N01",
+                           "vehicle":{
+                              "icon":"//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                              "name":"Bus",
+                              "type":"BUS"
+                           }
+                        },
+                        "num_stops":13,
+                        "trip_short_name":"BROD"
+                     },
+                     "travel_mode":"TRANSIT"
+                  },
+                  {
+                     "distance":{
+                        "text":"6.9 km",
+                        "value":6906
+                     },
+                     "duration":{
+                        "text":"20 mins",
+                        "value":1200
+                     },
+                     "end_location":{
+                        "lat":46.0619502,
+                        "lng":14.5584405
+                     },
+                     "html_instructions":"Bus towards NS RUDNIK - BTC - LETALIŠKA",
+                     "polyline":{
+                        "points":"qoaxG{towAAHk@Om@Q_@Ow@YKEkAe@[Mm@WUI_A_@AAk@YSM_@WkAg@_Bk@UGa@MQG[KEAq@Wy@Yg@OSISOIG{@WYYAAIMGOEOIi@CaCE_G@Y?eAAsDAuA?eCA_ACkD?UEsK?a@?w@AuA?q@@y@?q@@]Bg@Bk@Bm@BSB]Bc@P{BPoCFs@Dc@PoBFu@BY?QAc@GIIIQOu@m@]Ue@Yc@Cq@Au@Au@Da@@SAiAFw@??Q?i@@iA?eAC]Ci@KQSSkAeAeA}@eB}A_@Yu@m@oAiAGUAEAIAAGMu@}A{@wBGMk@iAk@kA}@sB{@yByA{D{@wBGO_AyBaBeEISSe@[w@aBeEYu@i@uAIu@s@gBoAiDAGuAoDACaAkCSq@U{@}@qDYqBKy@S{AUuB[wEr@_@zAu@TMHGJK@@?@@??@@??@@??@@?@?@??@@?@??A@?@??A@?@A@??A?A@??A?A@??A?A?A@A?A?A?A?A?AAA?A?A?AAA?AA??AAAAAA??AA?A?AAMs@]qBdCoA~@e@ZQz@a@bD_BpCwAh@Y?@?@@@?@@??@@@@??@@?@?@?@?@?@??A@??A@??A@??A?A@??A?A?A@A?A?A?A?AA??A?A?AAA?AAA?AA?AAA??AA?A?A?A??@A?A?SeAQoA@??A@??A?A@??A?A?A@??A?A?A?A?A?A?AA??A?AA??A?AA??AA??AA?AAA?A?A?UmAUiA?A@??A@??A?A@??A?A@A?A?A?A?A?A?A?A?A?A?A?AA??A?AAA?AA??AA??AA??AA?A??AA?A?A?A??@c@uBMq@m@aD?A@?@A@??A@A@A@A?A@A?A?A@A?A?A?A@A?A?A?C?A?AvBaANGLItBaA~@g@RI?@@??@@@?@@??@@?@@@?@?@??@?A@?@?@??A@?Jf@h@xCXvANn@A??@A?A??@A??@A@?@A??@?@A@?@?@?@?@?@?@?@?@?@@@?@?@@??@@@?@@??@@?@@@?@?@?@?@?@??A@?RjAVlAA?A@A@?@A??@A@?@?@?@A??@?@?@?@?@?@@??@?@?@@??@?@@??@@@@@@??@@?@?@?@?@?@AZhBLt@z@nDA?A@A@?@A??@?@A??@?@?@?@A@?@?@@@?@?@?@?@@??@?@@??@@@@??@@?@@@?@?@?@??A@?@??A@??A@??A?A@??A?A@??A?A?A?A?A?A?A?A?A?AAA`@WbCmARK@?NCPERAJ?J@PH?@@B@@?B@@@@@@B@@@B@@@@?B?@?@?@?B?@A@?BC@A@ABA?C@A@C@A?C@C?A@C?C?C?C?C?C?CAC?AAC?CAAACAAACAAAAAm@Cc@CYQ_By@kFQeAIe@O}AI}@?QBc@@A@A?A@A?A@A?A?C?A@A?A?C?A?A?C?A?A?AAC?A?AAA?AAAAA?AAA?AAAA?AAAAA?AAA?EsCCwAAW?c@CcPCkJA{JBEDKBI@M?KAI?GCICCCCCA?}AA?"
+                     },
+                     "start_location":{
+                        "lat":46.0519318,
+                        "lng":14.5033438
+                     },
+                     "transit_details":{
+                        "arrival_stop":{
+                           "location":{
+                              "lat":46.0619502,
+                              "lng":14.5584405
+                           },
+                           "name":"Leskoškova"
+                        },
+                        "arrival_time":{
+                           "text":"10:45\u202fPM",
+                           "time_zone":"Europe/Ljubljana",
+                           "value":1671918300
+                        },
+                        "departure_stop":{
+                           "location":{
+                              "lat":46.0519318,
+                              "lng":14.5033438
+                           },
+                           "name":"Pošta"
+                        },
+                        "departure_time":{
+                           "text":"10:25\u202fPM",
+                           "time_zone":"Europe/Ljubljana",
+                           "value":1671917100
+                        },
+                        "headsign":"NS RUDNIK - BTC - LETALIŠKA",
+                        "line":{
+                           "agencies":[
+                              {
+                                 "name":"Ljubljana Passenger Transport",
+                                 "phone":"011 386 1 582 25 82",
+                                 "url":"http://www.lpp.si/"
+                              }
+                           ],
+                           "short_name":"27",
+                           "vehicle":{
+                              "icon":"//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                              "name":"Bus",
+                              "type":"BUS"
+                           }
+                        },
+                        "num_stops":16,
+                        "trip_short_name":"LETALIŠKA"
+                     },
+                     "travel_mode":"TRANSIT"
+                  },
+                  {
+                     "distance":{
+                        "text":"0.1 km",
+                        "value":96
+                     },
+                     "duration":{
+                        "text":"1 min",
+                        "value":81
+                     },
+                     "end_location":{
+                        "lat":46.0620749,
+                        "lng":14.5574958
+                     },
+                     "html_instructions":"Walk to Letališka cesta, 1000 Ljubljana, Slovenia",
+                     "polyline":{
+                        "points":"cncxGgmzwA?|ADBDDBH?F@H?JALCHEJCFGBC?E?IA?A"
+                     },
+                     "start_location":{
+                        "lat":46.06194439999999,
+                        "lng":14.5584406
+                     },
+                     "steps":[
+                        {
+                           "distance":{
+                              "text":"37 m",
+                              "value":37
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":27
+                           },
+                           "end_location":{
+                              "lat":46.0619404,
+                              "lng":14.5579656
+                           },
+                           "html_instructions":"Head <b>west</b> on <b>Letališka cesta</b>",
+                           "polyline":{
+                              "points":"cncxGgmzwA?|A"
+                           },
+                           "start_location":{
+                              "lat":46.06194439999999,
+                              "lng":14.5584406
+                           },
+                           "travel_mode":"WALKING"
+                        },
+                        {
+                           "distance":{
+                              "text":"59 m",
+                              "value":59
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":54
+                           },
+                           "end_location":{
+                              "lat":46.0620749,
+                              "lng":14.5574958
+                           },
+                           "html_instructions":"Enter the roundabout",
+                           "polyline":{
+                              "points":"cncxGijzwADBDDBH?F@H?JALCHEJCFGBC?E?IA?A"
+                           },
+                           "start_location":{
+                              "lat":46.0619404,
+                              "lng":14.5579656
+                           },
+                           "travel_mode":"WALKING"
+                        }
+                     ],
+                     "travel_mode":"WALKING"
+                  }
+               ],
+               "traffic_speed_entry":[
+
+               ],
+               "via_waypoint":[
+
+               ]
+            }
+         ],
+         "overview_polyline":{
+            "points":"}o~wGe{gwAYVb@rABFGFFGJ\\Nf@VhARb@TXf@R^F\\AjAURIn@Ub@G|@QhAIRA\\Q~DMdAExAKW_C_@yDIiBEgCGy@e@uAm@_BKy@Ey@LqBl@yG~@yHH_@NUXYd@]`@SzGeCl@U?BBBHBHCDK?MEKIEGBA@Uy@_@eA]s@{@uAyBsCeBeCy@iAOk@?A?CAE?EEIGEGAE@A?a@Mc@e@k@_A_@m@g@cAWk@[{@s@qCa@kB_DoS{CyR{C{Ro@_E{AqJkQ`EiDRuAJyA\\y@\\_Ad@gA|@sF|CsBlAsAt@Mu@YaB_@mBcBuHsDaO{BoJQ}@Cq@@s@?UXsAVmA^_D|@mH`@cEZaEH[cE{@kAOw@E_@EaDcB}DuBe@Sq@QcAUk@KwEwA@IAHyAa@oDuA_DoAm@[s@e@kDsAw@UeBm@aBi@g@YIG{@W[[Q]Oy@IaK@_BEoMIwR?yF@oAFsANcCb@kGLwA\\qEAc@GI[YsAcAe@Yc@CgBCwAF}ADw@??Q@sBCcBCi@KQ_ByAkD{CuAgAoAiAGUCO{BeFs@wAiB_EuCuHcAgC_EyJaEiKIu@s@gBqAqDwAsDuA}DsAmFe@kDi@qE[wEr@_@pBcATSBBBDJ?HGBOCOIICAk@eDdEuBlKkFh@W@DBBF@FCDG@KCKGEGAA@UeAOoA@A@E@C?MEGEEC?m@wC@CBG@GAQIKEAC?q@eDm@cDBABCFO@Q~IeEFFJ@@?v@~Df@fCA@EDADANDLHDB?B?ThATlAA@CDCJBLDHH@BAh@~Cx@nDA@A@ADAD?LDJHBHCDK?M?C^YvCyAv@KV@PJDJFDHDH?JEFIHYC]EKCECo@G}@Q_By@kF[kBY{CBu@BCBG@SCSIMECCAIkFIk]A{JHQDc@AQGMGEA}A@|AJHBP@TEVIRKBOA?A"
+         },
+         "summary":"",
+         "warnings":[
+            "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order":[
+
+         ]
+      }
+   ],
+   "status":"OK"
+}

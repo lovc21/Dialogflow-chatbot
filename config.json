@@ -1,0 +1,8 @@
+{
+  "params":
+  {
+    "cliente_url": "mongodb+srv://jakob123:jakob123@cluster0.alnqwfd.mongodb.net/?retryWrites=true",
+    "db": "client_test"
+  }
+
+}

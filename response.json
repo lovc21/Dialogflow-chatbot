@@ -1,0 +1,349 @@
+{
+   "geocoded_waypoints":[
+      {
+         "geocoder_status":"OK",
+         "partial_match":true,
+         "place_id":"ChIJ69UyymMtZUcRquumYnfF-D0",
+         "types":[
+            "street_address"
+         ]
+      },
+      {
+         "geocoder_status":"OK",
+         "place_id":"ChIJtX40o10tZUcRCH7rIGv8pIs",
+         "types":[
+            "route"
+         ]
+      }
+   ],
+   "routes":[
+      {
+         "bounds":{
+            "northeast":{
+               "lat":46.0517629,
+               "lng":14.5054717
+            },
+            "southwest":{
+               "lat":46.046301,
+               "lng":14.4934243
+            }
+         },
+         "copyrights":"Map data ©2022",
+         "fare":{
+            "currency":"EUR",
+            "text":"€1.30",
+            "value":1.3
+         },
+         "legs":[
+            {
+               "arrival_time":{
+                  "text":"8:33\u202fPM",
+                  "time_zone":"Europe/Ljubljana",
+                  "value":1671651193
+               },
+               "departure_time":{
+                  "text":"8:22\u202fPM",
+                  "time_zone":"Europe/Ljubljana",
+                  "value":1671650554
+               },
+               "distance":{
+                  "text":"1.6 km",
+                  "value":1604
+               },
+               "duration":{
+                  "text":"11 mins",
+                  "value":639
+               },
+               "end_address":"Tobačna ulica, 1000 Ljubljana, Slovenia",
+               "end_location":{
+                  "lat":46.0480178,
+                  "lng":14.4934243
+               },
+               "start_address":"Wolfova ulica 6, 1000 Ljubljana, Slovenia",
+               "start_location":{
+                  "lat":46.0510736,
+                  "lng":14.5054181
+               },
+               "steps":[
+                  {
+                     "distance":{
+                        "text":"0.3 km",
+                        "value":257
+                     },
+                     "duration":{
+                        "text":"3 mins",
+                        "value":206
+                     },
+                     "end_location":{
+                        "lat":46.0512304,
+                        "lng":14.5030108
+                     },
+                     "html_instructions":"Walk to Konzorcij",
+                     "polyline":{
+                        "points":"ejaxG{apwAECGEs@tDMn@Mn@Oz@UtAEXbBf@D@"
+                     },
+                     "start_location":{
+                        "lat":46.0510736,
+                        "lng":14.5054181
+                     },
+                     "steps":[
+                        {
+                           "distance":{
+                              "text":"9 m",
+                              "value":9
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":6
+                           },
+                           "end_location":{
+                              "lat":46.051141,
+                              "lng":14.5054717
+                           },
+                           "html_instructions":"Head <b>northeast</b> on <b>Wolfova ulica</b> toward <b>Knafljev prehod</b>",
+                           "polyline":{
+                              "points":"ejaxG{apwAECGE"
+                           },
+                           "start_location":{
+                              "lat":46.0510736,
+                              "lng":14.5054181
+                           },
+                           "travel_mode":"WALKING"
+                        },
+                        {
+                           "distance":{
+                              "text":"0.2 km",
+                              "value":187
+                           },
+                           "duration":{
+                              "text":"3 mins",
+                              "value":155
+                           },
+                           "end_location":{
+                              "lat":46.0517629,
+                              "lng":14.5032186
+                           },
+                           "html_instructions":"Turn <b>left</b> onto <b>Knafljev prehod</b>",
+                           "maneuver":"turn-left",
+                           "polyline":{
+                              "points":"sjaxGebpwAs@tDMn@Mn@Oz@UtAEX"
+                           },
+                           "start_location":{
+                              "lat":46.051141,
+                              "lng":14.5054717
+                           },
+                           "travel_mode":"WALKING"
+                        },
+                        {
+                           "distance":{
+                              "text":"61 m",
+                              "value":61
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":45
+                           },
+                           "end_location":{
+                              "lat":46.0512304,
+                              "lng":14.5030108
+                           },
+                           "html_instructions":"Turn <b>left</b> onto <b>Slovenska cesta</b>",
+                           "maneuver":"turn-left",
+                           "polyline":{
+                              "points":"onaxGctowAbBf@D@"
+                           },
+                           "start_location":{
+                              "lat":46.0517629,
+                              "lng":14.5032186
+                           },
+                           "travel_mode":"WALKING"
+                        }
+                     ],
+                     "travel_mode":"WALKING"
+                  },
+                  {
+                     "distance":{
+                        "text":"1.2 km",
+                        "value":1170
+                     },
+                     "duration":{
+                        "text":"5 mins",
+                        "value":300
+                     },
+                     "end_location":{
+                        "lat":46.046942,
+                        "lng":14.4934992
+                     },
+                     "html_instructions":"Bus towards ČRNUČE - DOLGI MOST P+R",
+                     "polyline":{
+                        "points":"ijaxGirowA?CZJPFD@B@F@XDj@JVHPF^HNFHD@?HDJDbAh@D@ZP^TPJXN\\Pn@\\dAj@DBFBD@H@F?F@F@H?RBP?F@B?b@FZDnBb@rAVIZ[`EKfAGn@MjA}@lHAJ]rCIb@Mh@YrAGPALALCR?B?B?@?F?H?H@H?H?D@B@DLt@|@tDVfAA@"
+                     },
+                     "start_location":{
+                        "lat":46.051094,
+                        "lng":14.502933
+                     },
+                     "transit_details":{
+                        "arrival_stop":{
+                           "location":{
+                              "lat":46.046942,
+                              "lng":14.4934992
+                           },
+                           "name":"Tobačna"
+                        },
+                        "arrival_time":{
+                           "text":"8:31\u202fPM",
+                           "time_zone":"Europe/Ljubljana",
+                           "value":1671651060
+                        },
+                        "departure_stop":{
+                           "location":{
+                              "lat":46.051094,
+                              "lng":14.502933
+                           },
+                           "name":"Konzorcij"
+                        },
+                        "departure_time":{
+                           "text":"8:26\u202fPM",
+                           "time_zone":"Europe/Ljubljana",
+                           "value":1671650760
+                        },
+                        "headsign":"ČRNUČE - DOLGI MOST P+R",
+                        "line":{
+                           "agencies":[
+                              {
+                                 "name":"Ljubljana Passenger Transport",
+                                 "phone":"011 386 1 582 25 82",
+                                 "url":"http://www.lpp.si/"
+                              }
+                           ],
+                           "short_name":"06",
+                           "vehicle":{
+                              "icon":"//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                              "name":"Bus",
+                              "type":"BUS"
+                           }
+                        },
+                        "num_stops":3,
+                        "trip_short_name":"DOLGI MOST P+R"
+                     },
+                     "travel_mode":"TRANSIT"
+                  },
+                  {
+                     "distance":{
+                        "text":"0.2 km",
+                        "value":177
+                     },
+                     "duration":{
+                        "text":"2 mins",
+                        "value":132
+                     },
+                     "end_location":{
+                        "lat":46.0480178,
+                        "lng":14.4934243
+                     },
+                     "html_instructions":"Walk to Tobačna ulica, 1000 Ljubljana, Slovenia",
+                     "polyline":{
+                        "points":"ip`xGmwmwAWgAa@LE@C@C?C?A?A??AA??AA??A?AACGS?AAA?AA??AA?AAAAA?A??AA?A?A?A?A@A?A??@WL_Al@KFEH@FFZ"
+                     },
+                     "start_location":{
+                        "lat":46.0469257,
+                        "lng":14.4935111
+                     },
+                     "steps":[
+                        {
+                           "distance":{
+                              "text":"31 m",
+                              "value":31
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":23
+                           },
+                           "end_location":{
+                              "lat":46.0470507,
+                              "lng":14.4938685
+                           },
+                           "html_instructions":"Head <b>northeast</b> on <b>Tržaška c.</b> toward <b>Tobačna ulica</b>",
+                           "polyline":{
+                              "points":"ip`xGmwmwAWgA"
+                           },
+                           "start_location":{
+                              "lat":46.0469257,
+                              "lng":14.4935111
+                           },
+                           "travel_mode":"WALKING"
+                        },
+                        {
+                           "distance":{
+                              "text":"0.1 km",
+                              "value":131
+                           },
+                           "duration":{
+                              "text":"2 mins",
+                              "value":99
+                           },
+                           "end_location":{
+                              "lat":46.0480682,
+                              "lng":14.4935951
+                           },
+                           "html_instructions":"Turn <b>left</b> onto <b>Tobačna ulica</b>",
+                           "maneuver":"turn-left",
+                           "polyline":{
+                              "points":"aq`xGuymwAa@LE@C@C?C?A?A??AA??AA??A?AACGS?AAA?AA??AA?AAAAA?A??AA?A?A?A?A@A?A??@WL_Al@KFEH"
+                           },
+                           "start_location":{
+                              "lat":46.0470507,
+                              "lng":14.4938685
+                           },
+                           "travel_mode":"WALKING"
+                        },
+                        {
+                           "distance":{
+                              "text":"15 m",
+                              "value":15
+                           },
+                           "duration":{
+                              "text":"1 min",
+                              "value":10
+                           },
+                           "end_location":{
+                              "lat":46.0480178,
+                              "lng":14.4934243
+                           },
+                           "html_instructions":"Turn <b>left</b> to stay on <b>Tobačna ulica</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                           "maneuver":"turn-left",
+                           "polyline":{
+                              "points":"mw`xG_xmwA@FFZ"
+                           },
+                           "start_location":{
+                              "lat":46.0480682,
+                              "lng":14.4935951
+                           },
+                           "travel_mode":"WALKING"
+                        }
+                     ],
+                     "travel_mode":"WALKING"
+                  }
+               ],
+               "traffic_speed_entry":[
+
+               ],
+               "via_waypoint":[
+
+               ]
+            }
+         ],
+         "overview_polyline":{
+            "points":"ejaxG{apwAMIaAdFy@zEhBh@ZN?Cl@RHBdB\\jA^zAt@rAt@lDjB\\JrAH~@LbEz@IZ[`ESvBkBxOy@rDGr@?V@b@BHjAjFVfAA@@AWgAg@NG@G?CCMa@GEIA}A~@QPHb@"
+         },
+         "summary":"",
+         "warnings":[
+            "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order":[
+
+         ]
+      }
+   ],
+   "status":"OK"
+}
