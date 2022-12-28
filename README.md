@@ -8,3 +8,15 @@ This is a simple chatbot that is used for getting directions and transport metho
   Pymongo   
   Certifi  
   
+## How to setup
+
+  1. clone the repository  
+  2. install the libraries  
+  3. Set up the Dialogflow agent  
+  4. import the Dialogflow agent settings from dialogflow agent directori  
+  5. Install ngrok  
+  6. Set up the data Mongodb Atlas
+  7. Copy the user name and password  form Mongodb Atlas in to the config.json 
+  8. Start ngrok and type "ngork http 5000" 
+  9. Copy the https url that ngrok makes and paste it in the Dialogflow Fulfillment tab, add "/webhook" at the end
+  10. start the script 
