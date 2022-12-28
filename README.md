@@ -10,8 +10,8 @@ This is a simple chatbot that is used for getting directions and transport metho
   
 ## How to setup
 
-  1. clone the repository  
-  2. install the libraries  
+  1. Clone the repository  
+  2. Install the libraries  
   3. Set up the Dialogflow agent  
   4. import the Dialogflow agent settings from dialogflow agent directori  
   5. Install ngrok  
