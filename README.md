@@ -23,9 +23,7 @@ To set up the chatbot, you will need to:
   7. Copy the https url provided by ngrok and paste it into the Dialogflow Fulfillment tab, adding "/webhook" at the end.
   8. Start the FlaskServer.py script to run the chatbot.
   
-
-
---
+___
 It is important to note that you will need to have the appropriate dependencies installed on your computer and have a Dialogflow account to set up the agent and access the settings. Also, it is important to follow the instructions provided in the repository, as well as the instructions provided in the libraries' documentation to ensure the successful execution of the script and proper communication with the Dialogflow agent and MongoDB Atlas.
 
 
